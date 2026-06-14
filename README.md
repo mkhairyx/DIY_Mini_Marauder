@@ -1,6 +1,6 @@
 # DIY_Mini_Marauder
 
-This is an open source version of JustCallMeKoko's marauder mini with better documentation and tutorials on how flash the device after making it. <br>
+This is an open source version of [JustCallMeKoko's](github.com/justcallmekoko) marauder mini with better documentation and tutorials on how flash the device after making it. <br>
 <br>
 
 ## The Poster
@@ -150,7 +150,9 @@ Next to the USB-C port there are 2 LEDs: <br>
 #### In Egypt
 [Nori](norisolutions.com) (PCB only): $19.09 <br>
 <img width="1123" height="508" alt="image" src="https://github.com/user-attachments/assets/cef67f87-a3f9-4291-88d7-d53ac049a9d4" />
- <br>
+<br>
+
+
  [Metanoia](metanoia-eg.com) (Case only): Unquoted for now. <br>
  
 #### Out of Egypt
@@ -161,8 +163,9 @@ Next to the USB-C port there are 2 LEDs: <br>
 <br>
 <br>
 <br>
+
+
 > The firmware is designed by [JustCallMeKoko](github.com/justcallmekoko). <br>
-The PCB that was reverse engineered for the making of [DIY Mini Marauder](https://github.com/mkhairyx/DIY_Mini_Marauder) is designed by [JustCallMeKoko](https://github.com/justcallmekoko). <br>
+The PCB that was reverse engineered for the making of [DIY Mini Marauder](https://github.com/mkhairyx/DIY_Mini_Marauder) is designed by [JustCallMeKoko](https://github.com/justcallmekoko).<br>
 This repo and all of it's contents were Designed by [@mkhairyx](https://github.com/mkhairyx).<br>
 Supported by [Fallout](https://fallout.hackclub.com/) and [Hack Club](https://hackclub.com).<br>
-<hr>
