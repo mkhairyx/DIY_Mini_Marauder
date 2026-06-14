@@ -1,5 +1,6 @@
 # DIY_Mini_Marauder
 
+This is an open source version of --------------------
 ## The Poster
 *still in the making*
 
@@ -24,8 +25,75 @@ All of the step files can be downloaded [here](./Step_Files/).
 (to be uploaded using github's MD editor)
 
 ## Firmware
-### Fzee flasher
-(To try)
+### Fzee flasher (Marauder Mini)
+- Visit the [FZEE FLASHER](https://fzeeflasher.com/) website
+- Make sure your device is connected to your PC
+- Click "Connect" <br>
+<img width="181" height="48" alt="image" src="https://github.com/user-attachments/assets/b4bb688b-bfb8-464b-a4da-e55b52c00563" />
+
+- Select the Programmer chip for your device (which would be CP2104 if you used the schematics/PCB in this repository) <br>
+<img width="429" height="423" alt="image" src="https://github.com/user-attachments/assets/c400aff8-7c54-443b-a0f2-ba439f48c2e2" />
+
+- If you used the schematics/PCB provided in this repository, then you can skip this step. <br>
+As soon as you see this screen, hold down the BOOT button on your device as the flasher will automatically reset the device and it will go into the boatloader mode <br>
+<img width="273" height="76" alt="image" src="https://github.com/user-attachments/assets/71b266a3-5740-4abd-a3f9-4292a7f7828a" />
+
+- Select "ESP32 Marauder Mini Device" <br>
+<img width="628" height="439" alt="image" src="https://github.com/user-attachments/assets/168cee87-4439-4ad7-864f-fa4af325aa8e" />
+
+- Select the latest version <br>
+<img width="170" height="129" alt="image" src="https://github.com/user-attachments/assets/3831aca0-2004-409e-9db8-04e21e200db1" />
+
+- Select "Marauder" as the firmware <br>
+<img width="181" height="128" alt="image" src="https://github.com/user-attachments/assets/129829b3-ea91-42cd-a314-d73268ddc1c5" />
+
+- Erase the device first to make sure that it's not affected by any previously installed firmwares <br>
+<img width="1129" height="547" alt="image" src="https://github.com/user-attachments/assets/3557a42a-3f0c-4f88-8353-aef243760d9d" />
+
+- Click "Program" <br>
+<img width="1113" height="575" alt="image" src="https://github.com/user-attachments/assets/825e864c-5778-4fc1-a418-72125d1ae0d5" />
+
+- It will take arround 10 seconds to flash the firmware.  <br>
+  After those 10 seconds, you should see this screen which indicates that you succesfully flashed the device with the new firmware: <br>
+  <img width="505" height="61" alt="image" src="https://github.com/user-attachments/assets/414fb868-b80e-4891-9937-c8a1bc804162" />
+
+
+
+### Bruce (Bruce's Firmware)
+- Visit [Bruce's Web Firmware Flasher](https://bruce.computer/flasher) 
+- Select whatever release you want (it's recommended to select the latest release)
+ <img width="570" height="142" alt="image" src="https://github.com/user-attachments/assets/7f779d35-56f8-49f3-9cdc-c99741975e87" />
+ 
+- Select "Custom Boards"
+<img width="1438" height="115" alt="image" src="https://github.com/user-attachments/assets/46af4877-1ab4-47ea-ac86-ba6ab39f025c" />
+
+- Select "Marauder Mini"
+<img width="1688" height="232" alt="image" src="https://github.com/user-attachments/assets/e01ff70b-297f-4254-a239-439757cc3c3c" />
+
+- Select "Connect to Device"
+<img width="390" height="178" alt="image" src="https://github.com/user-attachments/assets/3d82d22e-7f21-4564-bf3d-79527dd0dcb0" />
+
+- Select the Programmer chip for your device (which would be CP2104 if you used the schematics/PCB in this repository)
+<img width="421" height="413" alt="image" src="https://github.com/user-attachments/assets/23b841e9-3e63-418b-ba16-42bf6b7ddac1" />
+
+- Select "Instal Marauder-Mini"
+<img width="305" height="244" alt="image" src="https://github.com/user-attachments/assets/90c4378e-641e-4aeb-b3c3-85e0433d8db5" />
+
+- Then make sure to have the "Erase device" option enabled then click next
+<img width="586" height="285" alt="image" src="https://github.com/user-attachments/assets/9c754400-10ed-4c5b-a5fa-2a80364ab52e" />
+
+- Confirm the instalation
+<img width="315" height="264" alt="image" src="https://github.com/user-attachments/assets/3e93bfa5-14b2-4c7b-a6cf-b434a5369e3e" />
+
+- If you used the schematics/PCB provided in this repository, then you can skip this step. <br>
+As soon as you see this screen, make sure to put your device into the bootloader mode by holding the BOOT button down, pressing the RST button, and then after 2 seconds release the BOOT button.
+<img width="309" height="213" alt="image" src="https://github.com/user-attachments/assets/41a3e569-285f-4a53-a02d-a6363ff1248c" />
+
+- It will take around 2 minutes to upload the firmware. <br>
+After those 2 minutes, you should see this screen which indicates that you had a succesful instalation:
+<img width="300" height="239" alt="image" src="https://github.com/user-attachments/assets/fd29074a-138c-4ad8-b7fc-c1319ceb3247" />
+
+
 
 ## Buttons and leds
 ### The two LEDs
@@ -77,7 +145,9 @@ Next to the USB-C port there are 2 LEDs: <br>
 #### In Egypt
 to be finished
 #### Out of Egypt
-to be finished
+JLCPCB (both PCB and case)
+<img width="1434" height="724" alt="image" src="https://github.com/user-attachments/assets/cff0abbd-560b-4fbe-9da5-c764f21fd100" />
+
 <br>
 <br>
 <br>
