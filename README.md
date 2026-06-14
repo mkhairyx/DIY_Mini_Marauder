@@ -1,6 +1,8 @@
 # DIY_Mini_Marauder
 
-This is an open source version of --------------------
+This is an open source version of JustCallMeKoko's marauder mini with better documentation and tutorials on how flash the device after making it. <br>
+<br>
+
 ## The Poster
 *still in the making*
 
@@ -13,7 +15,7 @@ This is an open source version of --------------------
 With the device inside:
 ![Device](./Media/Fusion360/Device.png)
 
-Empty:
+Without the device inside:
 ![Assmebled](./Media/Fusion360/Assembled.png)
 
 
@@ -21,8 +23,11 @@ Empty:
 ### Step Files
 All of the step files can be downloaded [here](./Step_Files/).
 
-### Assembly video
-(to be uploaded using github's MD editor)
+### Disassembly video
+
+https://github.com/user-attachments/assets/7e853b93-fa27-431c-8479-e6c7b8179391
+
+
 
 ## Firmware
 ### Fzee flasher (Marauder Mini)
@@ -143,17 +148,21 @@ Next to the USB-C port there are 2 LEDs: <br>
 
 ### Orders from different manufacturers
 #### In Egypt
-to be finished
+[Nori](norisolutions.com) (PCB only): $19.09 <br>
+<img width="1123" height="508" alt="image" src="https://github.com/user-attachments/assets/cef67f87-a3f9-4291-88d7-d53ac049a9d4" />
+ <br>
+ [Metanoia](metanoia-eg.com) (Case only): Unquoted for now. <br>
+ 
 #### Out of Egypt
-JLCPCB (both PCB and case)
+[JLCPCB](https://jlcpcb.com/) (both PCB and Case): $31.15 <br>
 <img width="1434" height="724" alt="image" src="https://github.com/user-attachments/assets/cff0abbd-560b-4fbe-9da5-c764f21fd100" />
 
 <br>
 <br>
 <br>
 <br>
-> The firmware is designed by [JustCallMeKoko](https://github.com/justcallmekoko). <br>
+> The firmware is designed by [JustCallMeKoko](github.com/justcallmekoko). <br>
 The PCB that was reverse engineered for the making of [DIY Mini Marauder](https://github.com/mkhairyx/DIY_Mini_Marauder) is designed by [JustCallMeKoko](https://github.com/justcallmekoko). <br>
 This repo and all of it's contents were Designed by [@mkhairyx](https://github.com/mkhairyx).<br>
 Supported by [Fallout](https://fallout.hackclub.com/) and [Hack Club](https://hackclub.com).<br>
-
+<hr>
