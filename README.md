@@ -4,7 +4,7 @@ This is an open source version of [JustCallMeKoko's](github.com/justcallmekoko) 
 <br>
 
 ## The Poster
-*still in the making*
+![Poster](zine.png)
 
 ## The Design
 ### The PCB
@@ -153,8 +153,11 @@ Next to the USB-C port there are 2 LEDs: <br>
 <br>
 
 
- [Metanoia](metanoia-eg.com) (Case only): Unquoted for now. <br>
- 
+ [Metanoia](metanoia-eg.com) (Case only): $5.96 <br>
+ <img width="672" height="611" alt="Screenshot 2026-06-16 at 05 26 53" src="https://github.com/user-attachments/assets/e6bbf573-7cb0-401a-9262-be6322aed205" />
+<br>
+
+
 #### Out of Egypt
 [JLCPCB](https://jlcpcb.com/) (both PCB and Case): $31.15 <br>
 <img width="1434" height="724" alt="image" src="https://github.com/user-attachments/assets/cff0abbd-560b-4fbe-9da5-c764f21fd100" />
