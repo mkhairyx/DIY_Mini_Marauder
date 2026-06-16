@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model SKRHAAE010
+#/635268/2080970/2.50/6/4/Switch
+DEF SKRHAAE010 S 0 30 Y Y 1 F N
+F0 "S" 1450 300 50 H V L CNN
+F1 "SKRHAAE010" 1450 200 50 H V L CNN
+F2 "SKRHAAE010" 1450 100 50 H I L CNN
+F3 "http://www.alps.com/prod/info/E/HTML/MultiControl/Switch/SKRH/SKRHAAE010.html" 1450 0 50 H I L CNN
+F4 "Multi-Directional Switches 4 Dir Center Push 50mA 12V DC" 1450 -100 50 H I L CNN "Description"
+F5 "" 1450 -200 50 H I L CNN "Height"
+F6 "688-SKRHAAE010" 1450 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Alps-Alpine/SKRHAAE010?qs=6EGMNY9ZYDQQG43X8RE8sg%3D%3D" 1450 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "ALPS Electric" 1450 -500 50 H I L CNN "Manufacturer_Name"
+F9 "SKRHAAE010" 1450 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X A 1 0 0 200 R 50 50 0 0 O
+X CENTER_PUSH 2 0 -100 200 R 50 50 0 0 O
+X C 3 0 -200 200 R 50 50 0 0 O
+X B 4 1600 0 200 L 50 50 0 0 O
+X COMMON 5 1600 -100 200 L 50 50 0 0 I
+X D 6 1600 -200 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1400 100 1400 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
