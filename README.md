@@ -3,6 +3,10 @@
 This is an open source version of [JustCallMeKoko's](github.com/justcallmekoko) marauder mini with better documentation and tutorials on how flash the device after making it. <br>
 <br>
 
+
+The reason I made this repository is becaused I have always wanted to have my own marauder mini but it was unavailble and there was no Schematics to be found for it. <br>
+Only thing I was able to find was the PCB and the Case for it. I reverse engineered the PCB to have a useful schematic that anyone can use to make their own PCB and maybe make changes to it. <br>
+
 ## The Poster
 ![Poster](zine.png)
 
