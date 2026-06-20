@@ -12,15 +12,15 @@ Only thing I was able to find was the PCB and the Case for it. I reverse enginee
 
 ## The Design
 ### The PCB
-![PCB](./Media/KiCad/marauder%20PCB.png)
+![PCB]("./Media/KiCad%20-%20PCB/marauder%20PCB.png")
 ### The Schematics
-![Schematics](./Media/KiCad/marauder%20Schematic.png)
+![Schematics](./Media/KiCad%20-%20PCB/marauder%20Schematic.png)
 ### The Enclosure Case 
 With the device inside:
-![Device](./Media/Fusion360/Device.png)
+![Device](./Media/Fusion360%20-%203D/Device.png)
 
 Without the device inside:
-![Assmebled](./Media/Fusion360/Assembled.png)
+![Assmebled](./Media/Fusion360%20-%203D/Assembled.png)
 
 
 ## Assembly
