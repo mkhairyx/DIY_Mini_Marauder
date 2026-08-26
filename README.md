@@ -169,6 +169,13 @@ Next to the USB-C port there are 2 LEDs: <br>
 <br>
 <br>
 <br>
+
+<h1 align="center"> DISCLAIMER </h1>
+
+<h4 align="center">Please note that the use of this tool is entirely at your own risk. It is intended strictly for educational purposes and should not be used for any illegal or unethical activities. Jamming is illegal and can get you in big trouble!</h4>
+<h4 align="center">I'm not responsible for your actions! </h4>
+
+
 <br>
 
 
